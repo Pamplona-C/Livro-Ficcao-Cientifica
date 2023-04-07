@@ -1,4 +1,4 @@
-Capítulo 1: A descoberta de Alex
+**Capítulo 1**: A descoberta de Alex
 
 Alex é um jovem cientista da computação que passa a maior parte do tempo em um laboratório de pesquisa avançada. Desde criança, ele sempre foi fascinado por computadores e tecnologia, e agora dedica sua vida a descobrir novas maneiras de inovar nesse campo.
 
